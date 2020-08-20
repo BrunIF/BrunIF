@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+### Connect with me:
+
+[<img align="left" alt="Ігор Броновський" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Igor Bronovskyi | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Igor Bronovskyi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/teitter.svg" />][twitter]
+[<img align="left" alt="Ігор Броновський | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Ігор Броновський | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Ігор Броновський | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Igor Bronovskyi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 <!--
 **BrunIF/BrunIF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
