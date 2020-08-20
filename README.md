@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[website]: https://brun.if.ua
+[telegram]: https://t.me/BrunIF
+[twitter]: https://twitter.com/BrunIF
+[youtube]: https://www.youtube.com/c/ІгорБроновський
+[instagram]: https://instagr.am/i.bronovskyi
+[facebook]: https://fb.com/BrunIF
+[linkedin]: https://www.linkedin.com/in/BrunIF
