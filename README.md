@@ -2,13 +2,14 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Ігор Броновський" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/firefoxbrowser.svg" />][website]
-[<img align="left" alt="Igor Bronovskyi | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" />][telegram]
-[<img align="left" alt="Igor Bronovskyi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.5.0/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Ігор Броновський | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Ігор Броновський | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.5.0/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Ігор Броновський | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.5.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Igor Bronovskyi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.5.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ігор Броновський" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@16.37.0/icons/firefoxbrowser.svg" />][website]
+[<img align="left" alt="GitHub Pages" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@16.37.0/icons/github.svg" />][ghpages]
+[<img align="left" alt="Igor Bronovskyi | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@16.37.0/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Igor Bronovskyi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@16.37.0/icons/x.svg" />][twitter]
+[<img align="left" alt="Ігор Броновський | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@16.37.0/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Ігор Броновський | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@16.37.0/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Ігор Броновський | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@16.37.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Igor Bronovskyi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.5.0/icons/linkedin.svg" />][linkedin] 
 
 <br>
 <br>
@@ -16,7 +17,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="BrunIF's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BrunIF&show_icons=true&hide_border=true" />
+  ![GitHub Stats Card](https://ghstats.dev/api/card?username=BrunIF&theme=light&hide_border=true&hide_title=true)
 
 </details>
 
@@ -38,7 +39,8 @@ Here are some ideas to get you started:
 -->
 
 [website]: https://brun.if.ua
-[telegram]: https://t.me/BrunIF
+[ghpages]: https://brunif.github.io
+[telegram]: https://t.me/ibronovskyi
 [twitter]: https://twitter.com/BrunIF
 [youtube]: https://www.youtube.com/c/ІгорБроновський
 [instagram]: https://instagr.am/i.bronovskyi
